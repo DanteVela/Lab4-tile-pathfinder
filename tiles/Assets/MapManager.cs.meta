@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fc0300b75825f7644bc4848e25ffb2d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _labelPrefab: {instanceID: 0}
+  - _uiCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
